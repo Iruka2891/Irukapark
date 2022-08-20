@@ -43,7 +43,6 @@
  background: #666;
 }
 
-
 #openbtn span:nth-of-type(1) {
  top:22px;	
  width: 50%;
@@ -73,8 +72,6 @@
  border: none;
 }
 
-
-
 #udimension {
  position: relative;
 }
@@ -88,6 +85,7 @@ input[type="checkbox"] {
  background: #fff;
  padding: 6px;
  box-shadow: 0 0 8px gray;
+ list-style: none;
  border-radius: 8px;
  opacity: 0;
  visibility: hidden;
@@ -98,5 +96,4 @@ input[type="checkbox"] {
 #umenu a {
  color: #000;
  text-decoration: none;
- list-style: none;
 }
