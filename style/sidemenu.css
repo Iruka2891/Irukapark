@@ -82,8 +82,8 @@ input[type="checkbox"] {
 
 #umenu {
  position: absolute;
- top: 0;
- left: 0;
+ top: 16;
+ left: 8;
  background: #fff;
  padding: 6px;
  box-shadow: 0 0 8px gray;
